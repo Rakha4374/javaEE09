@@ -10,6 +10,6 @@
  */
 package com.study;
 public class Calculator {
-    public int cube(int n) {return n*n*n;}
+    public int cube(int n) {return n*n*t;}
     
 }
